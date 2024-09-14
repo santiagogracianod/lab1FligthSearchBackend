@@ -1,13 +1,13 @@
-package com.udea.vueloudea;
+package com.udea.flights;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class VueloudeaApplication {
+public class FlightsApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(VueloudeaApplication.class, args);
+		SpringApplication.run(FlightsApplication.class, args);
 	}
 
 }

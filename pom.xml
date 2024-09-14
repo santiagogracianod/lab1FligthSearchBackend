@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.udea</groupId>
-	<artifactId>vueloudea</artifactId>
+	<artifactId>flights</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>vueloudea</name>
-	<description>Demo project for Spring Boot</description>
+	<name>flights</name>
+	<description>Flights project for software architecture course</description>
 	<url/>
 	<licenses>
 		<license/>
@@ -38,7 +38,6 @@
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-web</artifactId>
 		</dependency>
-
 		<dependency>
 			<groupId>com.h2database</groupId>
 			<artifactId>h2</artifactId>
